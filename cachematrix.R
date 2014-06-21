@@ -1,5 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+#Date: 6/21/2014
+#Course: R Programming
+#Assignment: 2
 
 #Creates an container object that stores matrix data and its inverse
 #also allows the retrieval of its matrix data and inverse value
